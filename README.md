@@ -55,9 +55,21 @@ The project includes:
 - Top Region: South
 - Best Sales Month: December
 
+
 ## Visualizations
 
-Charts are available in the `outputs/charts/` directory.
+### Monthly Sales Trend
+![Monthly Sales](outputs/charts/monthly_sales.png)
+
+### Sales by Product
+![Sales by Product](outputs/charts/sales_by_product.png)
+
+### Sales by Category
+![Sales by Category](outputs/charts/sales_by_category.png)
+
+### Sales by Region
+![Sales by Region](outputs/charts/sales_by_region.png)
+
 
 ## How to Run
 
