@@ -1,0 +1,18 @@
+========== BUSINESS INSIGHTS ==========
+Total Revenue: 315,416.73
+Total Orders: 500
+Average Order Value: 630.83
+Total Items Sold: 1457
+
+Top Product: Laptop
+Product Revenue: 156,783.25
+Product Revenue Share: 49.71%
+
+Top Category: Electronics
+Category Revenue: 182,719.07
+Category Revenue Share: 57.93%
+
+Top Region: South
+Best Sales Month: 12
+
+Note: This project uses synthetic data.
